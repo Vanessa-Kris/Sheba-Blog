@@ -1,29 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: compress
+---
+<!doctype html>
+<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
+<head>
+	{% include _head.html %}
+</head>
+<body id="top-of-page" class="{{ layout.format }}">
+	{% unless page.skip_boilerplate %}
+	{% include _navigation.html %}
+	{% endunless %}
 
-  {% include head.html %}
-  
-  {% if page.url == '/' %}
-    {% assign class = 'body-post' %}
-  <body class="{{ class }}">
-  {% endif %}
-  
-    {% if site.google-analytics %}
-      {% include google-analytics.html %}
-    {% endif %}
+	{% include _masthead.html %}
+	{{ content }}
 
-    <div class="full-page-container">
-      <div class="overlay"></div>
-      {% include header.html %}
-      {% include search.html %}
+	{% unless page.skip_boilerplate %}
+	{% include _footer.html %}
+	{% endunless %}
 
-        {{ content }}
-
-      {% include scroll-top.html %}
-      {% include footer.html %}
-    </div> <!-- /.full-page-container -->
-
-    {% include javascripts.html %}
-  </body>
-
+	{% include _footer_scripts.html %}
+</body>
 </html>
