@@ -6,22 +6,22 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: https://images.unsplash.com/photo-1480264104733-84fb0b925be3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGJvZHklMjBidWlsZGVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  title: "Realistic arm workout routine"
+  url: "http://phlow.github.io/feeling-responsive/blog/"
+  image: https://images.unsplash.com/photo-1605296867304-46d5465a13f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Ym9keSUyMGJ1aWxkZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "Perfect 20 Mins Workout"
+  url: "http://phlow.github.io/feeling-responsive/info/"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  video: '<iframe  height="250px" src="https://www.youtube.com/embed/iCQ2gC4DqJw" title="PERFECT 20 MIN FULL BODY WORKOUT FOR BEGINNERS (No Equipment)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  title: "The secret recipe for weight gain"
+  url: "https://github.com/Phlow/feeling-responsive"
+  image: https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGJvZHklMjBidWlsZGVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
+  url: https://tinyletter.com/NessaKris
   text: Inform me about new updates and features ›
   style: alert
 permalink: /index.html
@@ -44,9 +44,11 @@ permalink: /index.html
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
+<!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
-</div>
+</div> -->
+
+<iframe width="892" height="502" src="https://www.youtube.com/embed/iCQ2gC4DqJw" title="PERFECT 20 MIN FULL BODY WORKOUT FOR BEGINNERS (No Equipment)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
