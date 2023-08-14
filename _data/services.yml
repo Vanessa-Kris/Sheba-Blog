@@ -1,17 +1,13 @@
-- menu_name: "Services"
+- menu_name: "Quick Links"
 
-- name: "Contact"
-  url: "/contact/"
-  title: "Contact"
+- name: "Home"
+  url: "/"
+  title: "Home"
 
-- name: "RSS"
-  url: "/feed.xml"
-  title: "Subscribe to RSS Feed"
+- name: "About"
+  url: "/about"
+  title: "About"
 
-- name: "Atom"
-  url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
-
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+- name: "Blogs"
+  url: "/blogs/"
+  title: "Blogs"

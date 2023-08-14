@@ -7,26 +7,17 @@
   side: left
 
 - title: "Blog"
-  url: "/blog/"
+  url: "/design/"
   side: left
   dropdown:
-    - title: "Blog1"
-      url: "/design/grid/"
-    - title: "Blog2"
-      url: "/design/page/"
-    - title: "Blog3"
-      url: "/design/post-left-sidebar/"
-    - title: "Blog4"
-      url: "/design/post-right-sidebar/"
+    - title: "10 Tips to Boost Productivity"
+      url: "/stop-procastinating/"
+    - title: "Real workout plan"
+      url: "/workout-routine/"
 
 - title: "Shop"
-  url: "/headers/"
+  url: "/shop/"
   side: left
-  dropdown:
-    - title: "Protein Shakes"
-      url: "/design/header-full-width-image/"
-    - title: "Merch"
-      url: "/design/header-image-pattern/"
 
 - title: "Search"
   url: "/search/"
