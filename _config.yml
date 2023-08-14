@@ -14,10 +14,10 @@ title: "Sheba Chris"
 slogan: "Personal blogging website"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Lorem ipsum dolor sit amet"
+description: "Personal blogging"
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Vanessa</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Sheba Chris</a>.</p>'
+credits: '<p>Created with &hearts; by <a href="https://vanessa-kris.githu.io/">Vanessa</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="/">Sheba Chris</a>.</p>'
 
 # Main author of the website
 # See > authors.yml

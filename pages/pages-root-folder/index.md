@@ -9,19 +9,19 @@ header:
   image_fullwidth: https://images.unsplash.com/photo-1480264104733-84fb0b925be3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGJvZHklMjBidWlsZGVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60
 widget1:
   title: "Realistic arm workout routine"
-  url: "http://phlow.github.io/feeling-responsive/blog/"
+  url: "/arm-workout"
   image: https://images.unsplash.com/photo-1605296867304-46d5465a13f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Ym9keSUyMGJ1aWxkZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  text: "When it comes to fitness goals, one area that many people aim to sculpt and strengthen is their arms. Having well-defined arms not only enhances your physical appearance but also contributes to overall upper body strength and functionality."
 widget2:
   title: "Perfect 20 Mins Workout"
-  url: "http://phlow.github.io/feeling-responsive/info/"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  url: "/twentymins-workout/"
+  text: "This is the perfect workout combination for a quick 20 minutes burn, Get's you pumped and ready to conquer your day."
   video: '<iframe  height="250px" src="https://www.youtube.com/embed/iCQ2gC4DqJw" title="PERFECT 20 MIN FULL BODY WORKOUT FOR BEGINNERS (No Equipment)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
 widget3:
   title: "The secret recipe for weight gain"
-  url: "https://github.com/Phlow/feeling-responsive"
+  url: "/weight-gain/"
   image: https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGJvZHklMjBidWlsZGVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  text: "In a world often focused on weight loss, it's important to recognize that for some individuals, gaining weight can be just as challenging and important as shedding it."
 #
 # Use the call for action to show a button on the frontpage
 #
