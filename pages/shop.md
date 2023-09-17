@@ -27,7 +27,7 @@ Incorporating Tom Brown into your diet is not only a delicious choice but also a
 
 <img class="t60" src="https://i.pinimg.com/564x/0b/92/bb/0b92bbb4838a067bbadad5ad439ceacd.jpg" alt=" Tom Brown Protein Powder"/>
 
-Get 400g for **NGN 2000**
+Get 400g for **NGN 1000**
 
 <a href="https://wa.link/bhdr0e">
   <button style="background-color:green; color: white; padding: 12px 24px; border-radius: 4px; border: none; cursor: pointer;"> 
@@ -35,7 +35,7 @@ Get 400g for **NGN 2000**
     </button>
     </a>
 
-Get 800g for **NGN 4000**
+Get 800g for **NGN 2000**
 
 <a href="https://wa.link/edcmg6">
   <button style="background-color:green; color: white; padding: 12px 24px; border-radius: 4px; border: none; cursor: pointer;"> 
