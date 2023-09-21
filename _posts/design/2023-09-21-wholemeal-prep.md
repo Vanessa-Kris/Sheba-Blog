@@ -6,8 +6,11 @@ meta_teaser: "Tom Brown Whole Meal, a nutritious and wholesome grain-based food,
 permalink: "/whole-meal/"
 
 header:
-  image: https://img.freepik.com/free-photo/nutty-bowl-organic-fresh-healthy-snacks-generated-by-ai_24640-80844.jpg?size=626&ext=jpg
+  image: "./pages/nuts.jpg"
   background-color: "#262930"
+image:
+  thumb: ./pages/nuts.jpg
+  homepage: ./pages/nuts.jpg
 
 categories:
   - Tom Brown

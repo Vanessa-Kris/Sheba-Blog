@@ -9,13 +9,7 @@ permalink: "/arm-workout/"
 header:
   image: https://images.unsplash.com/photo-1501139083538-0139583c060f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGltZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60
   background-color: "#262930"
-  caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/
-image:
-  thumb: homepage_typography-thumb.jpg
-  homepage: https://images.unsplash.com/photo-1501139083538-0139583c060f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGltZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60
-  caption: Image by Unsplash
-  caption_url: "https://unsplash.com/"
+
 categories:
   - lifestyle
 ---
