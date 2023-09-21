@@ -3,12 +3,16 @@ layout: page-fullwidth
 title: "SHOP"
 permalink: "/shop/"
 header:
-  image_fullwidth: "https://img.freepik.com/free-photo/dairy-frame-stucco-background_23-2148601757.jpg?size=626&ext=jpg"
+  image_fullwidth: "https://img.freepik.com/free-photo/flat-lay-assorted-nuts-dried-fruits-mini-different-bowls-with-pecan-pistachios-almond-peanut_176474-2035.jpg?size=626&ext=jpg"
 ---
 
 <!-- <div class="medium-8 medium-pull-4 columns" markdown="1"> -->
 
-**Tom Brown** is a nutritious fusion of fresh, all-natural ingredients, harmoniously blending corn, dates, guinea corn, groundnut, millet, soya beans, and tiger nuts. This extraordinary medley not only provides a rich array of essential nutrients but also offers a plethora of health benefits
+**Tom Brown Whole Meal** is a nutritious fusion of fresh, all-natural ingredients, harmoniously blending corn, dates, guinea corn, groundnut, millet, soya beans, and tiger nuts. Producing the only meal you need .
+
+<img  src="https://img.freepik.com/free-photo/therapy-relaxing-spa-sand-spoon_23-2148724042.jpg?size=626&ext=jpg" alt=" Tom Brown Protein Powder"/>
+
+This extraordinary medley not only provides a rich array of essential nutrients but also offers a plethora of health benefits
 
 - Boosts Energy
 - Natural Butt Enlarger (For women 😉)
@@ -21,7 +25,8 @@ header:
 - Great For Diabetes Management/ Prevention
 - Great Immune System Support
 - Supports Brain Health And Cognitive Function.
-- Enhances Libido
+- Enhances Libido;
+  And so much more...
 
 Incorporating Tom Brown into your diet is not only a delicious choice but also a smart one for your overall well-being.
 
@@ -42,3 +47,11 @@ Get 800g for **NGN 2000**
         Buy 800g
     </button>
     </a>
+
+Read blog post
+
+### 3 Methods To Prepare Tom Brown Whole Meal
+
+<a href="/whole-meal/"> 
+*Delicious Versatility of Tom Brown Whole Meal*
+</a>
