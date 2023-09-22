@@ -59,7 +59,7 @@ These legumes provide a heart-healthy dose of monounsaturated fats, protein, and
 
 <img  src="https://5.imimg.com/data5/SELLER/Default/2022/4/BZ/BD/FU/67691712/groundnut-seeds-500x500.jpg"/>
 
-> ## Fun fact: "Tom Brown Whole Meal is an excellent meal choice for kids"
+> ## _Fun fact: "Tom Brown Whole Meal is an excellent meal choice for kids"_
 
 #### 5. Tiger Nuts:
 
