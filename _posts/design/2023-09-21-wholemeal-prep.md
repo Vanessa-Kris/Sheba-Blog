@@ -73,7 +73,7 @@ This Tom Brown Smoothie is perfect for a quick, on-the-go breakfast or a revital
 
 Tom Brown Whole Meal is incredibly versatile and can be used in countless other recipes. Get creative in the kitchen and craft your unique Tom Brown creations.
 
-Don't forget to share your culinary experiments with us using the hashtag #TomBrownWholeMeal – let's inspire each other to explore the full potential of this nutritious grain-based delight.
+Don't forget to share your culinary experiments with us using the hashtag #TomBrownWholeMeal let's inspire each other to explore the full potential of this nutritious grain-based delight.
 
 #### In conclusion:
 

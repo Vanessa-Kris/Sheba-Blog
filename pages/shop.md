@@ -55,3 +55,9 @@ Read blog post
 <a href="/whole-meal/"> 
 *Delicious Versatility of Tom Brown Whole Meal*
 </a>
+
+### Tom Brown Whole Meal Ingredients and Nutritional Value
+
+<a href="/whole-meal-ingredients/"> 
+*Discover the ingredients of the whole meal*
+</a>
