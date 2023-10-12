@@ -36,9 +36,10 @@ _#TomBrownWholeMeal._
 ### Method 1: Classic Porridge
 
 1. Begin by heating up water in a pan until it reaches a gentle boil.
-2. Once the water is bubbling, add the desired amount of Tom Brown Whole Meal to create a thick consistency. Stir continuously to prevent lumps.
-3. Adjust the texture by adding more water until you achieve your preferred thickness.
-4. Serve your Tom Brown porridge hot and customize it with milk, sugar, honey, or any toppings of your choice.
+2. In a bowl, combine your desired amount of Tom Brown whole meal with cold water. Mixing it in cold water first will help prevent the formation of lumps during the cooking process.
+3. Once the water is bubbling, add the Tom Brown whole meal mix. Stir continuously to prevent lumps.
+4. Adjust the texture by adding more water until you achieve your preferred thickness.
+5. Serve your Tom Brown porridge hot and customize it with milk, sugar, honey, or any toppings of your choice.
 
 <img  src="https://img.freepik.com/premium-photo/healthy-peanut-chutney-made-using-groundnut-shengdana-mungfali-served-small-bowl-with-raw-whole-selective-focus_466689-54279.jpg?w=900"/>
 
@@ -49,9 +50,10 @@ This traditional method ensures a hearty and satisfying breakfast that will fuel
 For those looking for a quick and convenient way to enjoy Tom Brown's nutritional benefits:
 
 1. Boil a cup of water to make a piping hot base for your Tom Brown Tea.
-2. Add 2 to 3 spoonfuls of Tom Brown Whole Meal to the hot water, stirring until it dissolves completely.
-3. Customize your Tom Brown Tea with milk, sugar, or any sweeteners you prefer. Stir well.
-4. Sip on this highly nutritious tea and relish its unique flavor.
+2. To prevent lumps, dissolve 2 to 3 tablespoons of Tom Brown whole meal in your tea cup using cold water.
+3. Add the hot water, stirring until it dissolves completely.
+4. Customize your Tom Brown Tea with milk, sugar, or any sweeteners you prefer. Stir well.
+5. Sip on this highly nutritious tea and relish its unique flavor.
 
 <img  src="https://img.freepik.com/free-photo/high-angle-delicious-iced-coffee_23-2149600723.jpg?size=626&ext=jpg"/>
 
@@ -65,7 +67,7 @@ If you're in the mood for something refreshing and fruity, try this Tom Brown Sm
 2. Toss in your favorite fruits – bananas, berries, or even tropical choices like mangoes work wonderfully.
 3. Pour in a generous amount of milk to give your smoothie a creamy texture.
 4. Blend the mixture until smooth and pour it into a glass.
-5. You can add some fu toppings like: chocolate, sprinkles, oreos etc.
+5. You can add some fun toppings like: chocolate, sprinkles, oreos etc.
 
 <img  src="https://img.freepik.com/free-photo/front-view-dessert-with-biscuits_23-2148603300.jpg?size=626&ext=jpg"/>
 
