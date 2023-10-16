@@ -32,23 +32,17 @@ Incorporating Tom Brown into your diet is not only a delicious choice but also a
 
 <img class="t60" src="https://i.pinimg.com/564x/0b/92/bb/0b92bbb4838a067bbadad5ad439ceacd.jpg" alt=" Tom Brown Protein Powder"/>
 
-Get 400g for **NGN 1000**
+Get 500g for **NGN 2000**
 
-<a href="https://wa.link/bhdr0e">
+<a href="https://wa.link/jfy72c">
   <button style="background-color:green; color: white; padding: 12px 24px; border-radius: 4px; border: none; cursor: pointer;"> 
-        Buy 400g
+        Buy 500g
     </button>
     </a>
 
-Get 800g for **NGN 2000**
+Or Scan the QR code to place an order
 
-<a href="https://wa.link/edcmg6">
-  <button style="background-color:green; color: white; padding: 12px 24px; border-radius: 4px; border: none; cursor: pointer;"> 
-        Buy 800g
-    </button>
-    </a>
-
-Read blog post
+<img src="/pages/qr.png" alt="QR Code"/>
 
 ### 3 Methods To Prepare Tom Brown Whole Meal
 

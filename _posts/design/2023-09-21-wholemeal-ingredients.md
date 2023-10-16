@@ -81,19 +81,11 @@ Adding natural sweetness and a touch of natural sugars, dates also supply dietar
 
 Incorporating Tom Brown into your diet means not only savoring its delicious taste but also benefiting from this wholesome blend of ingredients that can support your health at any age.
 
-Get 400g for **NGN 1000**
+Get 500g for **NGN 2000**
 
-<a href="https://wa.link/bhdr0e">
-<button style="background-color:green; color: white; padding: 12px 24px; border-radius: 4px; border: none; cursor: pointer;">
-Buy 400g
-</button>
-</a>
-
-Get 800g for **NGN 2000**
-
-<a href="https://wa.link/edcmg6">
+<a href="https://wa.link/jfy72c">
   <button style="background-color:green; color: white; padding: 12px 24px; border-radius: 4px; border: none; cursor: pointer;"> 
-        Buy 800g
+        Buy 500g
     </button>
     </a>
 

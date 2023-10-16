@@ -81,19 +81,11 @@ Don't forget to share your culinary experiments with us using the hashtag #TomBr
 
 Tom Brown Whole Meal isn't just a breakfast choice; it's a canvas for culinary creativity. Whether you opt for the classic porridge, the soothing tea, or the invigorating smoothie, you're bound to enjoy the wholesome goodness it brings to your table. So, go ahead, experiment, and discover your favorite way to savor this nutritious treat.
 
-Get 400g for **NGN 1000**
+Get 500g for **NGN 2000**
 
-<a href="https://wa.link/bhdr0e">
-<button style="background-color:green; color: white; padding: 12px 24px; border-radius: 4px; border: none; cursor: pointer;">
-Buy 400g
-</button>
-</a>
-
-Get 800g for **NGN 2000**
-
-<a href="https://wa.link/edcmg6">
+<a href="https://wa.link/jfy72c">
   <button style="background-color:green; color: white; padding: 12px 24px; border-radius: 4px; border: none; cursor: pointer;"> 
-        Buy 800g
+        Buy 500g
     </button>
     </a>
 
